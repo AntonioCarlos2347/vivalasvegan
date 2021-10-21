@@ -37,6 +37,19 @@
                 android:layout_height="240dp"
                 app:srcCompat="@drawable/disco" />
 
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/gueguense" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/bliss" />
+        </LinearLayout>
+
 
 
     </ScrollView>
